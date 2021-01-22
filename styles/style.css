@@ -58,6 +58,10 @@
   color: #2f80ed;
 }
 
+.header__link:hover {
+  color: #44bf59;
+}
+
 .header__main-illustration {
   width: 765px;
   height: 608px;
@@ -215,6 +219,10 @@
   font-size: 36px;
 }
 
+.feynman__link:hover {
+  color: #44bf59;
+}
+
 /* section kaufman */
 
 .kaufman {
@@ -315,12 +323,17 @@
   margin: 0 0 16px 0;
 }
 
+
 .footer__column-link {
   color: white;
   text-decoration: none;
   font-size: 18px;
   line-height: 30px;
   font-weight: normal;
+}
+
+.footer__column-link:hover {
+  color: #2f80ed;
 }
 
 .footer__social-icon {
