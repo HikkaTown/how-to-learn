@@ -39,6 +39,7 @@
 @import url("../blocks/cards/__description/cards__description.css");
 /* подключаю video и его элементы */
 @import url("../blocks/video/video.css");
+@import url("../blocks/video/__item/video__item.css");
 @import url("../blocks/video/__iframes/video__iframes.css");
 @import url("../blocks/video/__iframe/video__iframe.css");
 /* подключаю oakley */
@@ -78,6 +79,7 @@
 @import url("../blocks/resources/resources.css");
 @import url("../blocks/resources/__link/resources__link.css");
 @import url("../blocks/resources/__logo-zone/resources__logo-zone.css");
+@import url("../blocks/resources/__item/resources__item.css");
 @import url("../blocks/resources/__logo/resources__logo.css");
 /* подключил footer и его элементы */
 @import url("../blocks/footer/footer.css");
