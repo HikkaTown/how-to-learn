@@ -5,4 +5,7 @@
   -webkit-box-align: start;
   -ms-flex-align: start;
   align-items: flex-start;
+  /* не знал как лучше сделать, чтобы картинка соотвестовала брифу, решил сделать так: */
+  max-height: 608px;
+  overflow: hidden;
 }

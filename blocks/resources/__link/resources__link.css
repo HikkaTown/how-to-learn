@@ -1,0 +1,10 @@
+.resources__link {
+  opacity: 1;
+  -webkit-transition: .5s;
+  -o-transition: .5s;
+  transition: .5s;
+}
+
+.resources__link:hover {
+  opacity: .6;
+}
